@@ -5,12 +5,10 @@
 
 ****
 
-Aqui vamos recriar o um dos jogos de maiores sucessos do Iphone. Com o Pygame que é uma biblioteca escrita em Python e baseada em SDL.
+Aqui vamos recriar o um dos jogos de maiores sucessos do Iphone. Com o Pygame que é uma biblioteca escrita em Python e baseada em SDL. 
 
 Voltada para o desenvolvimento de games e interfaces gráficas, o Pygame fornece acesso a áudios, teclados, controles, mouses e hardwares gráficos via OpenGL e Direct3D.
 
 Por serem multiplataformas, tanto a SDL quanto o Pygame, podem rodar em quaisquer sistemas operacionais com alterações mínimas de código no funcionamento de um ou outro.
 
-### Desenvolvimento:
-
-### 
+![readme](https://user-images.githubusercontent.com/101136752/206822597-e1c7dc52-86d6-4178-89c3-00078b6518c8.png)
